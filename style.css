@@ -1,0 +1,39 @@
+body{
+    background-image: url("walpaper.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.heading{
+    border: 3px;
+    width: 100%;
+    color: aqua;
+    border-color: whitesmoke;
+    background-color: black;
+    font-size: 28px;
+    padding: 8px;
+}
+
+.note{
+    color: beige !important;
+    font-size: 23px !important;
+}
+
+.copy_right_footer{
+text-align: center;
+width: 100%;
+line-height: 2;
+bottom: 0;
+background-color: black;
+color: white;
+position: fixed;
+font-weight: bold;
+font-size: 15px;
+}
+
+canvas {
+    border-radius: 20px !important;
+    border-color: aqua !important;
+    border-width: 3px !important;
+    box-shadow: 5 5 8 white !important;
+}
